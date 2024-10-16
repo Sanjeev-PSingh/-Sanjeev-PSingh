@@ -16,7 +16,7 @@ My journey in computer engineering has led me to develop a passion for programmi
 
 
 ## Projects
-- <a href="https://github.com/Sanjeev-PSingh/Area.git/tree/main">Area</a> 
+- <a href="https://github.com/Sanjeev-PSingh/Area/tree/main">Area</a> 
 - <a href="https://github.com/Sanjeev-PSingh/Rectangular-Solid-Geometry-App.git/tree/main">Rectangular Solid Geometry Square</a> 
 - <a href="https://github.com/Sanjeev-PSingh/Loan-Payment-Calculator-App.git/tree/main">Loan Payment Calculator App</a>
 - <a href="https://github.com/Sanjeev-PSingh/Stock-Investment-Performance-Calculator.git/tree/main">Stock Investment Performance Calculator</a> 
