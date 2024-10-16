@@ -21,5 +21,5 @@ My journey in computer engineering has led me to develop a passion for programmi
 - <a href="https://github.com/Sanjeev-PSingh/Loan-Payment-Calculator-App/tree/main">Loan Payment Calculator App</a>
 - <a href="https://github.com/Sanjeev-PSingh/Stock-Investment-Performance-Calculator/tree/main">Stock Investment Performance Calculator</a> 
 - <a href="https://github.com/Sanjeev-PSingh/Paint-Job-Estimator/tree/main">Paint Job Estimator</a> 
-- https://github.com/Sanjeev-PSingh/Lo-Shu-Magic-Square/tree/main">Lo-Shu Magic Square Project</a> 
+- <a href="https://github.com/Sanjeev-PSingh/Lo-Shu-Magic-Square/tree/main">Lo-Shu Magic Square Project</a> 
   
